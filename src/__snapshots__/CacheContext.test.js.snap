@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CacheProvider creates a cache with resources and resolvers 1`] = `
+CacheImpl {
+  "resolvers": Map {},
+  "resources": Map {},
+}
+`;
