@@ -2,7 +2,7 @@
 
 React-Data-Cache looks to leverage the [React Suspense API](https://reactjs.org/docs/concurrent-mode-suspense.html) in order to create a configurable hook that can be used to build a clean, easy to use interface to fetch data and handle loading and error states.
 
-[![NPM](https://img.shields.io/npm/v/@planningcenter/react-data-cache.svg)](https://www.npmjs.com/package/@planningcenter/react-data-cache)
+[![NPM](https://img.shields.io/npm/v/@reactistry/react-data-cache.svg)](https://www.npmjs.com/package/@reactistry/react-data-cache)
 
 ## Is this safe to use?
 
