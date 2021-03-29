@@ -1,12 +1,12 @@
 {
-  "name": "@planningcenter/react-data-cache",
+  "name": "@reactistry/react-data-cache",
   "version": "0.1.0",
   "description": "A React library fetching and caching data from an API with simple and easy to use loading and error states.",
   "author": "kylemellander",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/planningcenter/react-data-cache.git"
+    "url": "git+https://github.com/kylemellander/react-data-cache.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
@@ -58,9 +58,9 @@
     "dist"
   ],
   "bugs": {
-    "url": "https://github.com/planningcenter/react-data-cache/issues"
+    "url": "https://github.com/kylemellander/react-data-cache/issues"
   },
-  "homepage": "https://github.com/planningcenter/react-data-cache#readme",
+  "homepage": "https://github.com/kylemellander/react-data-cache#readme",
   "keywords": [
     "react",
     "data",
