@@ -1,6 +1,6 @@
 {
   "name": "@reactistry/react-data-cache",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A React library fetching and caching data from an API with simple and easy to use loading and error states.",
   "author": "kylemellander",
   "license": "MIT",
